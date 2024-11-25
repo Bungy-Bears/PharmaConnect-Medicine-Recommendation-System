@@ -2,5 +2,4 @@ flask
 streamlit
 numpy
 pandas
-pickle
 sklearn
